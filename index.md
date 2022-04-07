@@ -1,1 +1,1 @@
-Potatoes are versatile. 
+Potatoes are very versatile. 
