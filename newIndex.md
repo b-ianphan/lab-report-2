@@ -10,7 +10,7 @@ This is another index file, its not the same, but it has a pretty similar name!
 [Google documents](https://www.google.com/docs/about/)
 
 ![Cat Picture](https://ychef.files.bbci.co.uk/976x549/p07ryyyj.jpg)
-> Cat's are better than dogs > 
+> Cat's are better than dogs  
 
 * They are less work
 * They are also cuddly
