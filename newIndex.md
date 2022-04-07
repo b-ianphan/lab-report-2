@@ -16,9 +16,9 @@ This is another index file, its not the same, but it has a pretty similar name!
 * They are also cuddly
 * They are smart
 
-1) Didn't ask
-2) L + 
-3) Ratio
+1. Didn't ask
+2. L + 
+3. Ratio
 
 --- 
 `My opinions are right`
