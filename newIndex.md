@@ -21,8 +21,8 @@ This is another index file, its not the same, but it has a pretty similar name!
 3) Ratio
 
 --- 
-'My opinions are right'
+`My opinions are right`
 
-''' 
+``` 
 Your opinions are wrong
-'''
+```
