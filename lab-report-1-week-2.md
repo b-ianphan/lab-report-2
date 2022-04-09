@@ -17,7 +17,7 @@ Written and Submitted By: Billy Phan
 
 ![Remotely Connecting](cse15l-lab1-ss2.png)
 
-* To connect to a remote computer, I used the linux command `ssh` (secure socket shell) followed by my school given ID (cs15lspr22ask@ieng6.ucsd.edu).
+* To connect to a remote computer, I used the linux command `ssh` (secure socket shell) followed by my school given ID (cs15lsp22ask@ieng6.ucsd.edu).
 
 * I then entered my password when prompted to (a password must be entered everytime you want to remotely connect unless you set up a `ssh key`).
 
