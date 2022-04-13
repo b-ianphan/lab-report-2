@@ -2,7 +2,7 @@
 
 `All Works Written and Submitted by Billy Phan` 
 
-Link back to original repo: [Go Back](https://github.com/b-ianphan/cse15l-lab-reports.git)
+Link back to original repo: [Here](https://github.com/b-ianphan/cse15l-lab-reports.git)
 
 ---
 
